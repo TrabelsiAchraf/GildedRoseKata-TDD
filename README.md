@@ -6,7 +6,7 @@ A demo project that solve GildedRose kata by implementing Unit Test using XCTest
 ![](https://img.shields.io/badge/license-MIT-green.svg)
 
 ### Requirements
-- iOS 11.0+ 
+- iOS 12.0+ 
 - Xcode 10+
 - Swift 4.2+
 
